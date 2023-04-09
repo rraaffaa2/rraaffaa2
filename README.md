@@ -3,7 +3,7 @@
 
 ## 📫 How to reach me:
 
-- Discord: [rraaffaa#7057](https://discord.com/)
+- Discord: [rraaffaa#7057](https://discordapp.com/users/zorri#6151)
 - Telegram: [@rafangedihu](https://twitter.com/notfilippo)
 - Instagram: [rraaffaa2](https://www.instagram.com/rraaffaa2/)
 
