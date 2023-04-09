@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+### Wellcome and Enjoy it my repos ;)
 
-<!--
-**rraaffaa2/rraaffaa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20major%20release-aug.%202000-important" />
+  <img src="https://img.shields.io/badge/unminified%20size-6%20feet%206%20inches-informational" />
+  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
+  <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+
+- Discord: [rraaffaa#7057](https://discord.com/)
+- Telegram: [@rafangedihu](https://twitter.com/notfilippo)
+- Instagram: [rraaffaa2](https://www.instagram.com/rraaffaa2/)
+
