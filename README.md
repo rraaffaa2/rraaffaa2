@@ -4,7 +4,7 @@
 ## 📫 How to reach me:
 
 - Discord: [rraaffaa#7057](https://discordapp.com/users/rraaffaa#7057)
-- Telegram: [@rafangedihu](https://twitter.com/notfilippo)
+- Telegram: [@rafangedihu](t.me/rafangedihu)
 - Instagram: [rraaffaa2](https://www.instagram.com/rraaffaa2/)
 
 
